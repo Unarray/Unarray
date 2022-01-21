@@ -1,8 +1,6 @@
 
 # Hi there 👋
 
-https://github-readme-stats.vercel.app/api/wakatime?username=willianrod
-
 I am a young French man of 18 years old who loves everything that touches the computer.
 This passion was born the day I discovered the Internet.
 Since then, I have learned to create images *(and modify them)*, videos, 3D models or even create programs !
