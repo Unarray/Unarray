@@ -25,7 +25,15 @@ Since then, I have learned to create images *(and modify them)*, videos, 3D mode
 - Softwares :
   > ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-# 📊 Stats
 
- > <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Verre2OuiSki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Verre2OuiSki&show_icons=true&count_private=true&hide=" /></a>  
- > <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Verre2OuiSki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verre2OuiSki&langs_count=10&layout=compact#" /></a>
+<details>
+  <summary><h1>📊 Stats</h1></summary>
+  <br>
+  <p align="center">
+    <img alt="Verre2OuiSki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Verre2OuiSki&show_icons=true&count_private=true&hide=" /><br>
+    <img alt="Verre2OuiSki's Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Verre2OuiSki&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=00FF88&border=00FF88&currStreakNum=00EEFF&sideLabels=00EEFF&fire=00EEFF&dates=8D8D8D&stroke=3B3B3B" /><br>
+    <img alt="Verre2OuiSki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verre2OuiSki&langs_count=10&layout=compact#" /><br>
+    
+  </p>
+</details>
+  
