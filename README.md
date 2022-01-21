@@ -1,6 +1,7 @@
 
 # Hi there 👋
 
+https://github-readme-stats.vercel.app/api/wakatime?username=willianrod
 
 I am a young French man of 18 years old who loves everything that touches the computer.
 This passion was born the day I discovered the Internet.
@@ -32,8 +33,11 @@ Since then, I have learned to create images *(and modify them)*, videos, 3D mode
   <summary><h1>📊 Stats <i>(click)</i></h1></summary>
   <br>
   <p align="center">
-    <img alt="Verre2OuiSki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Verre2OuiSki&theme=github_dark&title_color=00FF88&text_color=808080&icon_color=00EEFF&hide_border=false&border_color=FFFFFF&border_radius=30&show_icons=true&count_private=true" />  
-    <img alt="Verre2OuiSki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verre2OuiSKi&theme=github_dark&title_color=00FF88&text_color=808080&icon_color=00EEFF&hide_border=false&border_color=FFFFFF&border_radius=30&layout=compact" /><br>
+    <img alt="Verre2OuiSki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Verre2OuiSki&theme=github_dark&title_color=00FF88&text_color=808080&icon_color=00EEFF&hide_border=false&border_color=FFFFFF&border_radius=30&show_icons=true&count_private=true" /><br>
+    <img alt="Verre2OuiSki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verre2OuiSKi&theme=github_dark&title_color=00FF88&text_color=808080&icon_color=00EEFF&hide_border=false&border_color=FFFFFF&border_radius=30&layout=compact&custom_title=Most%20Used%20Languages%20%28public%20repo%27s%29" /><br>
+    <img alt="Verre2OuiSki's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Verre2OuiSki&theme=github_dark&title_color=00FF88&text_color=808080&icon_color=00EEFF&hide_border=false&border_color=FFFFFF&border_radius=30&layout=compact" /><br>
   </p>
+  
+  
 </details>
  
