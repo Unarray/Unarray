@@ -1,27 +1,31 @@
-### Hi there 👋
+# Hi there 👋
 
-- 🔭 I’m currently working on TheVoiceBE a Minecraft Bedrock Edition project !
-- 📫 How to reach me:
-  - Twitter : @Verre2OuiSki
-  - Discord : Verre2OuiSki#9875 
+I am a young French man of 18 years old who loves everything that touches the computer.
+This passion was born the day I discovered the Internet.
+Since then, I have learned to create images *(and modify them)*, videos, 3D models or even create programs !
 
-French Guy :O
+---
+# 📫 How to reach me:
+* [Twitter](https://twitter.com/Verre2OuiSki)
+* [Discord server *(EN)*](https://discord.gg/P8R4WhARrY) 
+* [Discord server *(FR)*](https://discord.gg/DnmRbAxMbN) 
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verre2OuiSki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# 🔭 I work mainly on :
+* PocketMine MP Plugins
+* Discord bots
+* Some random stuff
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Verre2OuiSki&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&ring=00FF80&fire=00F7FF&currStreakLabel=00F7FF&stroke=00FF80&sideLabels=00F7FF&dates=858585)](https://git.io/streak-stats)
+# 💻 Programming tools
+- Languages :
+  > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Databases :
+  > ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- Platforms :
+  > ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- Softwares :
+  > ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-**Verre2OuiSki/Verre2OuiSki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ > <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Verre2OuiSki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Verre2OuiSki&show_icons=true&count_private=true&hide=" /></a>  
+ > <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Verre2OuiSki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verre2OuiSki&langs_count=10&layout=compact#" /></a>
