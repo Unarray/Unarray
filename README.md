@@ -7,9 +7,9 @@ Since then, I have learned to create images *(and modify them)*, videos, 3D mode
 
 ---
 # 📫 How to reach me:
-* [Twitter](https://twitter.com/Verre2OuiSki)
-* [Discord server *(EN)*](https://discord.gg/P8R4WhARrY) 
-* [Discord server *(FR)*](https://discord.gg/DnmRbAxMbN) 
+> [![Twitter](https://img.shields.io/badge/Verre2OuiSki-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Verre2OuiSki)
+> [![Discord (EN)](https://img.shields.io/badge/Discord%20%28EN%29-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/P8R4WhARrY)
+> [![Discord (FR)](https://img.shields.io/badge/Discord%20%28FR%29-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DnmRbAxMbN)
 
 # 🔭 I work mainly on :
 * PocketMine MP Plugins
