@@ -12,7 +12,8 @@ Since then, I have learned to create images *(and modify them)*, videos, 3D mode
 > [![Discord (FR)](https://img.shields.io/badge/Discord%20%28FR%29-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DnmRbAxMbN)
 
 # 🔭 I work mainly on :
-* PocketMine MP Plugins [*My public plugins*](https://poggit.pmmp.io/plugins/by/Verre2OuiSki)
+* PocketMine MP Plugins
+  * [*(My public plugins)*](https://poggit.pmmp.io/plugins/by/Verre2OuiSki)
 * Discord bots
 * Some random stuff
 
