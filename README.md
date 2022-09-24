@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I am a young French man of 18 years old who loves everything that touches the computer.
+I am a young French man of 19 years old who loves everything that touches the computer.
 This passion was born the day I discovered the Internet.
 Since then, I have learned to create images *(and modify them)*, videos, 3D models or even create programs !
 
