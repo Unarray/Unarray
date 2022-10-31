@@ -5,43 +5,27 @@ I am a young French man of 19 years old who loves everything that touches the co
 This passion was born the day I discovered the Internet.
 Since then, I have learned to create images *(and modify them)*, videos, 3D models or even create programs !
 
----
-# 📫 How to reach me:
-> [![Twitter](https://img.shields.io/badge/Verre2OuiSki-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Verre2OuiSki)
-> [![Discord (EN)](https://img.shields.io/badge/Discord%20%28EN%29-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/P8R4WhARrY)
-> [![Discord (FR)](https://img.shields.io/badge/Discord%20%28FR%29-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DnmRbAxMbN)
-
-# 🔭 I work mainly on :
-* PocketMine MP Plugins
-  * [*(My public plugins)*](https://poggit.pmmp.io/plugins/by/Verre2OuiSki)
-* Discord bots
-* Some random stuff
+# 🔭 What I am working on:
+Currently, I am a student in [BTS Computer Services for Organizations option Software Solutions and Business Applications](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/bts-services-informatiques-aux-organisations-option-b-solutions-logicielles-et-applications-metiers)<br/>
+However, I am currently working on other projects:
+* [Zanoria](https://github.com/ZanoriaTeam) - a Minecraft Bedrock Edition server using an open source server software written in PHP called [PocketMine](https://github.com/pmmp/PocketMine-MP)
+* [Royaume](https://github.com/Virtual-Royaume) - a French community of developers, we work together on different projects to expand our knowledge and skills
 
 # 💻 Programming tools
-- Languages :
-  > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- Databases :
-  > ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- Platforms :
-  > ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- Softwares :
-  > ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+| Language              | Database | DevOps & Tools |
+| --------------------- | -------- | -------------- |
+| PHP                   | MySQL    | Git/GitHub     |
+| JavaScript/TypeScript | SQLite   |                |
+| Python                |          |                |
 
-<!--
 # 📝 Currently learning :
-> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
--->
+| Back-end         | Database |
+| ---------------- | -------- |
+| NestJS (Rest)    | MongoDB  |
+| NestJS (GraphQL) |          |
 
-
-<details>
-  <summary><h1>📊 Stats <i>(click)</i></h1></summary>
-  <br>
-  <p align="center">
-    <img alt="Verre2OuiSki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Verre2OuiSki&theme=github_dark&title_color=00FF88&text_color=808080&icon_color=00EEFF&hide_border=false&border_color=FFFFFF&border_radius=30&show_icons=true&count_private=true" /><br>
-    <img alt="Verre2OuiSki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verre2OuiSKi&theme=github_dark&title_color=00FF88&text_color=808080&icon_color=00EEFF&hide_border=false&border_color=FFFFFF&border_radius=30&layout=compact&custom_title=Most%20Used%20Languages%20%28public%20repo%27s%29" /><br>
-    <img alt="Verre2OuiSki's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Verre2OuiSki&theme=github_dark&title_color=00FF88&text_color=808080&icon_color=00EEFF&hide_border=false&border_color=FFFFFF&border_radius=30&layout=compact" /><br>
-  </p>
-  
-  
-</details>
- 
+# 📫 How to reach me:
+* [Twitter](https://twitter.com/Verre2OuiSki)
+* [Discord Verre2OuiSki#9875](https://discord.com/users/273135587660136448)
+* [Discord server (EN)](https://discord.gg/P8R4WhARrY)
+* [Discord server (FR)](https://discord.gg/DnmRbAxMbN)
