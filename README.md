@@ -18,12 +18,6 @@ However, I am currently working on other projects:
 | JavaScript/TypeScript | SQLite   |                |
 | Python                |          |                |
 
-# 📝 Currently learning :
-| Back-end         | Database |
-| ---------------- | -------- |
-| NestJS (Rest)    | MongoDB  |
-| NestJS (GraphQL) |          |
-
 # 📫 How to reach me:
 * [Twitter](https://twitter.com/Verre2OuiSki)
 * [Discord Verre2OuiSki#9875](https://discord.com/users/273135587660136448)
