@@ -20,6 +20,6 @@ However, I am currently working on other projects:
 
 # 📫 How to reach me:
 * [Twitter](https://twitter.com/Verre2OuiSki)
-* [Discord Verre2OuiSki#9875](https://discord.com/users/273135587660136448)
+* [Discord unarray](https://discord.com/users/273135587660136448)
 * [Discord server (EN)](https://discord.gg/P8R4WhARrY)
 * [Discord server (FR)](https://discord.gg/DnmRbAxMbN)
