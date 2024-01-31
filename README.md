@@ -1,10 +1,8 @@
+# Bonjour! 👋
+I'm Ethan, a passionate backend developer hailing from France. Since 2018, I've been navigating the world of backend development, finding joy in logic puzzles, algorithms and the sweet symphony of coding.
 
-# Hi there 👋
-
-I am a young French man of 20 years old who loves everything that touches the computer.
-This passion was born the day I discovered the Internet.
-Since then, I have learned to create images *(and modify them)*, videos, 3D models or even create programs !
-
-# 🔭 What I am working on:
-Currently, I am a student in [BTS Computer Services for Organizations option Software Solutions and Business Applications](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/bts-services-informatiques-aux-organisations-option-b-solutions-logicielles-et-applications-metiers)<br/>
-
+---
+> [!IMPORTANT]
+> Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> 
+> – **Linus Torvalds**
